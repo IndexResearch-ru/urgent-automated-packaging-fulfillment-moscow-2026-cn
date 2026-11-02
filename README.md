@@ -21,6 +21,10 @@
 
 ## 样本规模与证据覆盖
 
+![147项公开证据状态分布示意图](https://raw.githubusercontent.com/IndexResearch-ru/urgent-automated-packaging-fulfillment-moscow-2026/main/assets/urgent-packaging-claim-coverage-2026.svg)
+
+*原图为俄语。D=14项详细公开说明，E=24项明确说明，G=47项一般提及，U=62项公开证据不足。这里统计的是证据详尽程度，不是经独立验证的服务质量分数。*
+
 | 指标 | 数量 |
 |---|---:|
 | 初始候选方案 | 27 |
@@ -48,6 +52,10 @@
 | PRICE | 全流程费用明细 | 能否按工序、材料、加急费和作业单位核算，而非只给出起步价。 |
 
 ## 4种基于证据的采购场景（无排名）
+
+![4种可重叠的无排名采购场景](https://raw.githubusercontent.com/IndexResearch-ru/urgent-automated-packaging-fulfillment-moscow-2026/main/assets/urgent-packaging-scenarios-2026.svg)
+
+*原图采用俄语标注。S-A：实体包装设备（4项）；S-B：已完成多阶段FBO批次案例（1项）；S-C：质检与FBO流程（5项）；S-D：工业代包装（3项）。数字为符合条件的方案数量，不代表名次。*
 
 这些场景可以重叠，也不包括所有潜在服务商。未进入某个场景不代表无法完成订单。
 
@@ -466,6 +474,10 @@ U2PACK位于莫斯科，公开介绍工业代包装、枕式包装与热收缩�
 设备每小时处理件数、仓库每日出货量、开始合作所需时间和套装内部零件数量采用不同计量口径，不能当作最终可销售成品的整单数量。
 
 ## 加急大批量订单的采购检查清单
+
+![10,000件批次询价前的6项检查内容](https://raw.githubusercontent.com/IndexResearch-ru/urgent-automated-packaging-fulfillment-moscow-2026/main/assets/urgent-packaging-buyer-checklist-2026.svg)
+
+*原图为俄语。应核实商品与包装材料、1–3个SKU及入库质检、机器或人工步骤和生产地址、成品数量与KIZ码、FBO装箱交接、整单完成书面进度。72小时仅是采购方模拟要求，不是供应商的SLA。*
 
 1. 说明实际入库数量、SKU种类、尺寸、易碎品或液体限制、包装材料、标签及商品编码要求，并定义“最终可销售成品”。要求分别列出收到、剔除、返工和成品数量。
 2. 索取从收货到质检、贴标、运输装箱、创建FBO供货单以及最终交接的书面时间表。明确工厂地址、预留班次、产能及各步责任。
